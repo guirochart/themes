@@ -1,5 +1,5 @@
 {
-  "name" : "Kubernetes and Aurz",
+  "name" : "Kubernetes and Azure",
   "description" : "This theme includes element styles with icons for each of the Kubernetes components/resources, based upon the Kubernetes Icons Set (https://github.com/kubernetes/community/tree/master/icons).",
   "elements" : [ {
     "tag" : "Kubernetes - crb",
